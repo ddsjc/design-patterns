@@ -1,0 +1,1 @@
+Chevrolet 3 [Camaro, Niva, Aveo] [450000.0, 250000.0, 950000.0]

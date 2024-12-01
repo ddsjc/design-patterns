@@ -1,0 +1,4 @@
+Chevrolet
+4
+[Camaro, Niva, Aveo, Cruze]
+[450000.0, 250000.0, 950000.0, 950000.0]
